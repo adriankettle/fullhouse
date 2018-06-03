@@ -1,0 +1,30 @@
+*{
+  font-family: sans-serif;
+}
+
+.form{
+  background-color: steelblue;
+  color: white;
+  width: 100%;
+  height: 100% auto;
+  padding: 10px;
+  text-decoration: none;
+}
+
+#tr{
+  background-color: silver;
+  padding: 15px;
+}
+
+header{
+  background-color: blue;
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  border-radius: 10px;
+}
